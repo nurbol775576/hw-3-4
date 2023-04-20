@@ -1,0 +1,35 @@
+
+#ulist{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+   row-gap: 30px;
+   margin-right: 50px; 
+   flex-direction: space-between;
+   
+}
+
+
+
+
+.users {
+   margin-left: 50px;
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 40px; 
+    align-items:center ;
+    line-height: 30px;
+}
+
+
+
+ul li{
+    list-style: none;
+    
+ 
+
+    
+}
+
+.li{margin-left: 50px;}
+
